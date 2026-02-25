@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+59
+'Dijite 3 numeros a los cuales le quiere hayar el promedio'
+5
+1
+16
+num1, num2, num3
+6
+1
+8
+promedio
+22
+(num1 + num2 + num3)/3
+4
+1
+28
+'promedio es de:  ',promedio
+1
